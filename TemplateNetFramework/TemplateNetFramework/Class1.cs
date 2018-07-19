@@ -2,6 +2,6 @@
 {
     public class Class1
     {
-        public int C { get; set; }
+        public int C { get; set }
     }
 }
